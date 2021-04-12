@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">976183363313-cgdp504q0nvso7at4m0ih295uv74ib1p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://co2tracker-35f57-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">976183363313</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsCnFZ4eo8juunNFDGRB5nxdCVIlyaaOw</string>
+    <string name="google_app_id" translatable="false">1:976183363313:android:d5be9195f6038f7f774b50</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsCnFZ4eo8juunNFDGRB5nxdCVIlyaaOw</string>
+    <string name="google_storage_bucket" translatable="false">co2tracker-35f57.appspot.com</string>
+    <string name="project_id" translatable="false">co2tracker-35f57</string>
+</resources>
