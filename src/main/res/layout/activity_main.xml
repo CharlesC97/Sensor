@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".MainActivity"
+    tools:openDrawer="start">
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/header"
+        app:menu="@menu/main_menu" />
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/cloud5_edit"
+            android:longClickable="false"
+            android:nestedScrollingEnabled="false">
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivity">
+
+                <include
+                    android:id="@+id/toolbar"
+                    layout="@layout/toolbar" />
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/label"
+                android:layout_width="199dp"
+                android:layout_height="57dp"
+                android:layout_marginTop="134dp"
+
+                android:fontFamily="monospace"
+                android:text="@string/co2_ppm"
+                android:textAlignment="center"
+                android:textColor="#009688"
+                android:textSize="32dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/realButton"
+                android:layout_width="260dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="81dp"
+                android:layout_marginBottom="74dp"
+                android:fontFamily="monospace"
+                android:text="Loading..."
+                android:textAlignment="center"
+                android:background="?android:attr/selectableItemBackground"
+                android:textColor="#009688"
+                android:textSize="30sp"
+                app:layout_constraintBottom_toBottomOf="@+id/tempLableTextView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/label" />
+
+
+
+
+            <TextView
+                android:id="@+id/tempLableTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="304dp"
+                android:text="Temperature"
+                android:textColor="#3c00b0"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tempTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textColor="@color/black"
+
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="@+id/tempLableTextView"
+                app:layout_constraintStart_toStartOf="@+id/tempLableTextView"
+                app:layout_constraintTop_toBottomOf="@+id/tempLableTextView" />
+
+            <TextView
+                android:id="@+id/humidityLabletextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="304dp"
+                android:layout_marginEnd="40dp"
+                android:text="Humidity"
+                android:textColor="#3c00b0"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/humidityTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="@+id/humidityLabletextView"
+                app:layout_constraintStart_toStartOf="@+id/humidityLabletextView"
+                app:layout_constraintTop_toBottomOf="@+id/humidityLabletextView" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>
+
