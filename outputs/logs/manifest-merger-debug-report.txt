@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/2cd93af9db64a1df6d7ac2f6c1a288d6/navigation-ui-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8ec05774cac65a24376ba20b87b68348/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a48d05bcf6ade7130f245018fa08e94c/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/347613344a4dd306dbd9be9d7cf9502c/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6915db519f79e1eea64a1af05b593ee3/navigation-fragment-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a0cb7771a0953cc30d72b0bfa6e7c69e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b05b14b8902272c12dbe7cec580dd1b0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/133a213d8cf2a5e500c2ac4b5ca3f793/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/63c78c97f8ec7910559e3b87fa6bf5d3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/be8d1f0d36bd92a09f075b192f8ceb07/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/f276775e51cdb1e484c3f837a9807a6a/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/44b12311eab14a08da970f9af863912f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/7bce8986e7892a61c93c3f19ef70f48c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b2f76cff12e7911de92b7c74cdd8d38f/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/13cd242e69f2b85d3295f419726e8eff/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c4c4c067c7e5f7c393f893f69afee31d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c3c5b9864fee7467ab6b60d6d0cd116a/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/28ca1116e63da175922ebde6531b232f/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8f75027c8e63a9f440750fbf49dfb0e0/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/7d447f3ef7b158fa49ca6297ffe791e1/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a687f02e6809abe1a4fde1e52826e75e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/d9705d2633b8417b0599930591423e11/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/bfa4e1e7b29329de319bb4ec20f1b589/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c81fd2f6acfe3ab4677fbbcd1637c28c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/81c5a3e77d2e70f8bfdb08d1274cf0d4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/4951cf61b42f115cf82666a77ad3d3b5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/f855aeb5afaa3f428e4be4ff9cc1b7b1/navigation-runtime-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/e23b9c063090cc5081f98371492d754e/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c551a01a84ba92e266286368b61d00c/navigation-common-2.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ff8aa2e1640f9531ff7a18e45d1a699b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/0316160df33e4cd289f8eb81cb4cd3d1/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/467c6057cf4a4cbc36c0b58ed01a9682/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/36dfbdfd19731127cd0414e0b0d47655/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c1d76df109a5e26c1941d1df6e7291a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/98ac375c5c86f9d481ebaa24a6063ab5/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ba58fdd05990085a988db308a123c4ac/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6c788dcfcb1bc0f50e9655bb8aa2c919/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/af01abbda02def295aa03d98f2cb8aa7/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/239a63b165e2db57fb2b1f2e783a6705/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ef538a934c6d04b7548b04a2395d141c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/89d2ba3cc71bda46de1ce9622a7b324d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ca01a5fc79503a89418fc93d3d745ac4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8327442f275e35d4498c3de6511b106f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/5f3df1e8906ea514d7132071a61be5c4/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6da6bf8b1d820b5ea125ae30d88f7828/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/21e037725efbaeb00522c487954387b7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b932b8410330fcc48b975c601342e25c/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:6:5-47:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8ec05774cac65a24376ba20b87b68348/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8ec05774cac65a24376ba20b87b68348/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a48d05bcf6ade7130f245018fa08e94c/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a48d05bcf6ade7130f245018fa08e94c/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/13cd242e69f2b85d3295f419726e8eff/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/13cd242e69f2b85d3295f419726e8eff/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c4c4c067c7e5f7c393f893f69afee31d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c4c4c067c7e5f7c393f893f69afee31d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/467c6057cf4a4cbc36c0b58ed01a9682/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/467c6057cf4a4cbc36c0b58ed01a9682/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c1d76df109a5e26c1941d1df6e7291a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c1d76df109a5e26c1941d1df6e7291a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/467c6057cf4a4cbc36c0b58ed01a9682/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:12:9-48
+activity#com.example.co2monitor.Settings
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:13:9-16:20
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:13:19-43
+activity#com.example.co2monitor.About
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:17:9-20:20
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:17:19-40
+activity#com.example.co2monitor.SplashActivity
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:21:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.co2monitor.PastActivity
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:28:9-32:67
+	android:parentActivityName
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:31:13-55
+	android:label
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:30:13-42
+	android:theme
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:32:13-64
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:29:13-41
+activity#com.example.co2monitor.InstallActivity
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:33:9-35:58
+	android:parentActivityName
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:34:13-44
+activity#com.example.co2monitor.SuggestionActivity
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:36:9-40:67
+	android:parentActivityName
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:39:13-55
+	android:label
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:38:13-62
+	android:theme
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:40:13-64
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:37:13-47
+activity#com.example.co2monitor.InfoActivity
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:41:9-45:67
+	android:parentActivityName
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:44:13-55
+	android:label
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:43:13-56
+	android:theme
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:45:13-64
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:42:13-41
+activity#com.example.co2monitor.MainActivity
+ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:46:9-50
+	android:name
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml:46:19-47
+uses-sdk
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/2cd93af9db64a1df6d7ac2f6c1a288d6/navigation-ui-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/2cd93af9db64a1df6d7ac2f6c1a288d6/navigation-ui-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8ec05774cac65a24376ba20b87b68348/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8ec05774cac65a24376ba20b87b68348/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a48d05bcf6ade7130f245018fa08e94c/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a48d05bcf6ade7130f245018fa08e94c/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/347613344a4dd306dbd9be9d7cf9502c/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/347613344a4dd306dbd9be9d7cf9502c/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6915db519f79e1eea64a1af05b593ee3/navigation-fragment-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6915db519f79e1eea64a1af05b593ee3/navigation-fragment-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a0cb7771a0953cc30d72b0bfa6e7c69e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a0cb7771a0953cc30d72b0bfa6e7c69e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b05b14b8902272c12dbe7cec580dd1b0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b05b14b8902272c12dbe7cec580dd1b0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/133a213d8cf2a5e500c2ac4b5ca3f793/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/133a213d8cf2a5e500c2ac4b5ca3f793/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/63c78c97f8ec7910559e3b87fa6bf5d3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/63c78c97f8ec7910559e3b87fa6bf5d3/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/be8d1f0d36bd92a09f075b192f8ceb07/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/be8d1f0d36bd92a09f075b192f8ceb07/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/f276775e51cdb1e484c3f837a9807a6a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/f276775e51cdb1e484c3f837a9807a6a/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/44b12311eab14a08da970f9af863912f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/44b12311eab14a08da970f9af863912f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/7bce8986e7892a61c93c3f19ef70f48c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/7bce8986e7892a61c93c3f19ef70f48c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b2f76cff12e7911de92b7c74cdd8d38f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b2f76cff12e7911de92b7c74cdd8d38f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/13cd242e69f2b85d3295f419726e8eff/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/13cd242e69f2b85d3295f419726e8eff/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c4c4c067c7e5f7c393f893f69afee31d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c4c4c067c7e5f7c393f893f69afee31d/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c3c5b9864fee7467ab6b60d6d0cd116a/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c3c5b9864fee7467ab6b60d6d0cd116a/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/28ca1116e63da175922ebde6531b232f/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/28ca1116e63da175922ebde6531b232f/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8f75027c8e63a9f440750fbf49dfb0e0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8f75027c8e63a9f440750fbf49dfb0e0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/7d447f3ef7b158fa49ca6297ffe791e1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/7d447f3ef7b158fa49ca6297ffe791e1/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a687f02e6809abe1a4fde1e52826e75e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/a687f02e6809abe1a4fde1e52826e75e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/d9705d2633b8417b0599930591423e11/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/d9705d2633b8417b0599930591423e11/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/bfa4e1e7b29329de319bb4ec20f1b589/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/bfa4e1e7b29329de319bb4ec20f1b589/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c81fd2f6acfe3ab4677fbbcd1637c28c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c81fd2f6acfe3ab4677fbbcd1637c28c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/81c5a3e77d2e70f8bfdb08d1274cf0d4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/81c5a3e77d2e70f8bfdb08d1274cf0d4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/4951cf61b42f115cf82666a77ad3d3b5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/4951cf61b42f115cf82666a77ad3d3b5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/f855aeb5afaa3f428e4be4ff9cc1b7b1/navigation-runtime-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/f855aeb5afaa3f428e4be4ff9cc1b7b1/navigation-runtime-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/e23b9c063090cc5081f98371492d754e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/e23b9c063090cc5081f98371492d754e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c551a01a84ba92e266286368b61d00c/navigation-common-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.3] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c551a01a84ba92e266286368b61d00c/navigation-common-2.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ff8aa2e1640f9531ff7a18e45d1a699b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ff8aa2e1640f9531ff7a18e45d1a699b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/0316160df33e4cd289f8eb81cb4cd3d1/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/0316160df33e4cd289f8eb81cb4cd3d1/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/467c6057cf4a4cbc36c0b58ed01a9682/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/467c6057cf4a4cbc36c0b58ed01a9682/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/36dfbdfd19731127cd0414e0b0d47655/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/36dfbdfd19731127cd0414e0b0d47655/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c1d76df109a5e26c1941d1df6e7291a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/1c1d76df109a5e26c1941d1df6e7291a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/98ac375c5c86f9d481ebaa24a6063ab5/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/98ac375c5c86f9d481ebaa24a6063ab5/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ba58fdd05990085a988db308a123c4ac/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ba58fdd05990085a988db308a123c4ac/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6c788dcfcb1bc0f50e9655bb8aa2c919/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6c788dcfcb1bc0f50e9655bb8aa2c919/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/af01abbda02def295aa03d98f2cb8aa7/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/af01abbda02def295aa03d98f2cb8aa7/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/239a63b165e2db57fb2b1f2e783a6705/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/239a63b165e2db57fb2b1f2e783a6705/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ef538a934c6d04b7548b04a2395d141c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ef538a934c6d04b7548b04a2395d141c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/89d2ba3cc71bda46de1ce9622a7b324d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/89d2ba3cc71bda46de1ce9622a7b324d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ca01a5fc79503a89418fc93d3d745ac4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ca01a5fc79503a89418fc93d3d745ac4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8327442f275e35d4498c3de6511b106f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8327442f275e35d4498c3de6511b106f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/5f3df1e8906ea514d7132071a61be5c4/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/5f3df1e8906ea514d7132071a61be5c4/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6da6bf8b1d820b5ea125ae30d88f7828/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/6da6bf8b1d820b5ea125ae30d88f7828/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/21e037725efbaeb00522c487954387b7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/21e037725efbaeb00522c487954387b7/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b932b8410330fcc48b975c601342e25c/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/b932b8410330fcc48b975c601342e25c/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/charleschochos/Downloads/CO2App-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.1] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/c5a5670c66cf5ebd09f49403170aa9bb/jetified-firebase-database-19.2.1/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ac0e6aa68b5f6f080f61bdd16397cea0/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/8e9d7420722348251c52478b175a6fe0/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/charleschochos/.gradle/caches/transforms-2/files-2.1/ec94bd0430223024b3735323424c1a59/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
